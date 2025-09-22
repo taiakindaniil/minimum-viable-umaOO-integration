@@ -1,0 +1,14 @@
+{
+  "lib/forge-std": {
+    "rev": "dc1901f"
+  },
+  "lib/openzeppelin-contracts": {
+    "rev": "d00acef"
+  },
+  "lib/protocol": {
+    "branch": {
+      "name": "master",
+      "rev": "aeed93931ad9165f7054eb74b0b4df89bd0aefb3"
+    }
+  }
+}
